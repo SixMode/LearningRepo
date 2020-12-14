@@ -1,0 +1,2 @@
+C:\Users\Zac\Desktop\Archive\Code\CandCppCode\C++\cStyleStringsPractice\Debug\cStyleStringsPractice.exe
+C:\Users\Zac\Desktop\Archive\Code\CandCppCode\C++\cStyleStringsPractice\Debug\cStyleStringsPractice.pdb
